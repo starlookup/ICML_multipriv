@@ -1,1 +1,1 @@
-![Multipriv pipeline](PPR.png)
+![Multipriv pipeline](Multipriv_PPR.png)
